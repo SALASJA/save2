@@ -1,0 +1,8 @@
+.DS_Store
+*checkpoint.ipynb
+.ipynb_checkpoints
+*credentials.py
+*credentials.pyc
+*.pyc
+\metastore_db
+*derby*
