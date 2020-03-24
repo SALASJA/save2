@@ -3,7 +3,7 @@ auquanToolbox==1.16.0
 Babel==2.4.0
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
-bleach==2.0.0
+bleach==3.1.2
 brewer2mpl==1.4.1
 certifi==2017.7.27.1
 chardet==3.0.4
